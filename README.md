@@ -286,6 +286,9 @@ print(f"Selected summary: {two_step_result['selected_summary']}")
    - PDF translation with page-by-page extraction and processing
    - Output organization with individual page files and complete translations
 
+6. **📁 Translated Files**:
+   - Some of the translated files can be found in the [`translated_files/`](https://github.com/UzairNaeem3/DrX_EnigmaticResearch/tree/master/translated_files) directory.
+   
 ### Summarization System Implementation
 
 1. **Summary Generation**: The system generates summaries through multiple approaches:
