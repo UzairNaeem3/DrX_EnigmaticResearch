@@ -1,0 +1,15 @@
+tiktoken
+unstructured[pdf]
+python-docx
+numpy==1.26.4
+transformers
+torch
+sentence-transformers
+chromadb
+bitsandbytes
+tqdm
+fasttext
+PyPDF2
+beautifulsoup4
+rouge
+rouge-score
